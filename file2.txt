@@ -1,0 +1,7 @@
+my second file for learn git
+add footer note
+I am using git 
+before the good experience
+2024 is comming
+
+
